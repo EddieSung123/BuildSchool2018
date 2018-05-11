@@ -28,12 +28,6 @@ ABCD
 \* BuildSchool  
 \> BuildSchool
 
-1. C#
-2. HTML
-3. CSS
-4. JavaScript
-    1. jQuery
-    2. Ajax
 
 ---
 
