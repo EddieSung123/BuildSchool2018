@@ -19,11 +19,6 @@ ABCD
 
 
 # BuildSchool
-## BuildSchool
-### BuildSchool
-#### BuildSchool
-##### BuildSchool
-###### BuildSchool
 
 > BuildSchool
 >> BuildSchool
